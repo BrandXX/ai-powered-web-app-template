@@ -15,7 +15,7 @@ This document provides a clear outline of the file and folder organization for t
 ---
 
 ## Detailed Structure:
-
+```markdown
 AI-powered-Web-App/
 ├── backend/
 │   ├── app/
@@ -54,5 +54,5 @@ AI-powered-Web-App/
 ├── .gitignore
 ├── README.md
 └── docker-compose.yml
-
+```
 ---
